@@ -14,6 +14,7 @@
 🌱 I’m a Frontend developer with Next.js and React </br>
 🌱 I’m a Cloud developer with AWS</br>
 💻 I am passionate about Web Dev & I enjoy learning new things. I love javascript </br>
+💻 I build somo nice webs on my free time 😄 [Bones Vibracions](https://www.bonesvibracions.cat/)
 ⚡ I like Turtles</br>
 </div> 
 <br/>
