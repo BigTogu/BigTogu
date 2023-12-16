@@ -10,7 +10,7 @@
 
 ## About Me 🚀:
 🔭 Currently working on Indra with Next.js and React 😄 </br>
-🌱 I’m a Backend developer with Node.js, Sequalize, Docker, express, Sql and NoSql databases </br>
+🌱 I’m a Backend developer with Node.js, Sequelize, Docker, express, Sql and NoSql databases </br>
 🌱 I’m a Frontend developer with Next.js and React </br>
 🌱 I’m a Cloud developer with AWS</br>
 💻 I am passionate about Web Dev & I enjoy learning new things. I love javascript </br>
