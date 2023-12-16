@@ -39,6 +39,23 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 <div />
+
+##  Other frequently used tools:
+
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
+![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
+![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;   
+
+<br/>
+
+## GitHub Analytics
+
+![Silvia Kenaan github stats](https://github-readme-stats.vercel.app/api?username=BigTogu&theme=nightowl&show_icons=true)
+![Silvia Kenaan Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BigTogu&theme=nightowl&layout=compact&langs_count=8)
+
+<div align="center">
